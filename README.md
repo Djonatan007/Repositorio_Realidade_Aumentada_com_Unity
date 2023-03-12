@@ -55,7 +55,7 @@ Segunda parte:
 
 3° passo - Centralize o bloco que foi criado para alocar a imagem acima do chão, também vale lembrar que para funcionar o modo perspectiva é necessário que todos os objetos estejam dentro da Ar Câmera e dentro da imagem target, como mostrado abaixo:
 <p align="center">    
-    <img src="img/modeloCOnfig.png"><img>
+    <img src="img/modeloConfig.png"><img>
 </p>
 
 
